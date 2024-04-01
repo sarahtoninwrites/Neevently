@@ -1,0 +1,9 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bmVhcmJ5LXN3YW4tNzQuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_XHzrRsCa9DZDpYW8RPGMT6wdOMvvS1a4dvO3GPN7as
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+MONGODB_URI= mongodb+srv://sarahsaiyed:cgr8zp5S6Xf7qxne@cluster0.dirc8mz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
